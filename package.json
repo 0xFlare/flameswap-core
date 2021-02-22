@@ -1,18 +1,20 @@
 {
-  "name": "@uniswap/v2-core",
-  "description": "🎛 Core contracts for the UniswapV2 protocol",
-  "version": "1.0.1",
-  "homepage": "https://uniswap.org",
+  "name": "@flameswap/core",
+  "description": "🎛 Core contracts for the Flameswap protocol",
+  "version": "1.0.0",
+  "homepage": "https://flameswap.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Uniswap/uniswap-v2-core"
+    "url": "https://github.com/FlameProtocol/flameswap-core"
   },
   "keywords": [
     "uniswap",
     "ethereum",
     "v2",
     "core",
-    "uniswap-v2"
+    "uniswap-v2",
+    "flameswap",
+    "harmony"
   ],
   "files": [
     "contracts",
